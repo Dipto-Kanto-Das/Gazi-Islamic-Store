@@ -1,0 +1,48 @@
+/* Gazi Islamic Store Custom Navbar Style */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9fafb;
+}
+
+/* Custom Green Background */
+.bg-green {
+  background-color: #3d65dd !important;
+}
+
+/* Navbar Brand Styling */
+.navbar-brand {
+  font-size: 22px;
+  color: #fff !important;
+  letter-spacing: 0.5px;
+}
+
+.navbar-brand span {
+  color: #ffd700;
+}
+
+/* Navbar Link Styling */
+.navbar-nav .nav-link {
+  color: #fff !important;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffd700 !important;
+}
+
+/* Logo Style */
+.logo {
+  height: 80px;
+  width: auto;
+  border-radius: 8px;
+}
+
+/* Responsive: Logo smaller on small screens */
+@media (max-width: 576px) {
+  .logo {
+    height: 32px;
+  }
+}
+

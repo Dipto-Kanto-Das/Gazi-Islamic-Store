@@ -1,0 +1,325 @@
+[
+  {
+    "id": 1,
+    "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Grocery",
+    "category": "Islamic Electronics",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/22.jpg",
+    "description": "Finest quality rice for daily meals."
+  },
+  
+  {
+    "id": 13,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Drink",
+    "category": "Kids Islamic Products",
+    "price": 250,
+    "featured": true,
+    "image": "./GS/18.jpg",
+    "description": "Refreshing green tea."
+  },
+  {
+    "id": 5,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Beauty & Personal Care",
+    "category": "Beauty & Personal Care",
+    "price": 260,
+    "featured": true,
+    "image": "./assets/img/beauty-2 (1).jpg",
+    "description": "Powerful stain removal."
+  },
+    {
+    "id": 7,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Bakery",
+    "category": "Bakery",
+    "price": 85,
+    "discount": 28,
+    "featured": false,
+    "image": "./assets/img/Bakery2 (1).jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+   {
+    "id": 11,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Clothes",
+    "category": "Clothes",
+    "price": 490,
+   "featured": true,
+    "image": "./assets/img/Clothes-4 (1).jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+   {
+    "id": 20,
+    "categoryIcons": "./assets/img/market-3.png",
+    "name": "Electronics",
+    "category": "Electronics",
+    "price": 15000,
+    "featured": true,
+    "image": "./assets/img/Electronics-00 (1).jpg"
+  },
+  {
+    "id": 2,
+    "categoryIcons": "./assets/img/Market-4.png",
+    "name": "Grocery",
+    "category": "Grocery",
+    "price": 380,
+    "featured": false,
+    "image": "./assets/img/Grocery-3.jpg",
+    "description": "Aromatic long-grain rice."
+  },
+  {
+    "id": 3,
+    "categoryIcons": "./assets/img/market-3.png",
+    "name": "Grocery",
+    "category": "Grocery",
+    "price": 415,
+    "featured": true,
+    "image": "./assets/img/Grocery-4 (1).jpg",
+    "description": "Light and healthy cooking oil."
+  },
+    {
+    "id": 4,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Beauty & Personal Care",
+    "category": "Beauty & Personal Care",
+    "price": 260,
+    "featured": true,
+    "image": "./assets/img/beauty-1 (1).jpg",
+    "description": "Powerful stain removal."
+  },
+  
+  {
+    "id": 6,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Beauty & Personal Care",
+    "category": "Beauty & Personal Care",
+    "price": 320,
+    "featured": false,
+    "image": "./assets/img/beauty-4 (1).jpg",
+    "description": "Nourishing shampoo for shiny hair."
+  },
+
+    {
+    "id": 6,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Beauty & Personal Care",
+    "category": "Beauty & Personal Care",
+    "price": 320,
+    "featured": false,
+    "image": "./assets/img/Beauty & Personal Care-5555 (1).jpg",
+    "description": "Nourishing shampoo for shiny hair."
+  },
+
+    {
+    "id": 6,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Beauty & Personal Care",
+    "category": "Beauty & Personal Care",
+    "price": 320,
+    "featured": false,
+    "image": "./assets/img/Beauty & Personal Care-55 (1).jpg",
+    "description": "Nourishing shampoo for shiny hair."
+  },
+
+    {
+    "id": 6,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Beauty & Personal Care",
+    "category": "Beauty & Personal Care",
+    "price": 320,
+    "featured": false,
+    "image": "./assets/img/Beauty & Personal Care-555 (1).jpg",
+    "description": "Nourishing shampoo for shiny hair."
+  },
+
+  {
+    "id": 8,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Bakery",
+    "category": "Bakery",
+    "price": 85,
+    "featured": false,
+    "image": "./assets/img/Bakery2 (1).jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+  {
+    "id": 8,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Bakery",
+    "category": "Bakery",
+    "price": 85,
+    "featured": false,
+    "image": "./assets/img/Bakery (1).jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+  {
+    "id": 9,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Bakery",
+    "category": "Bakery",
+    "price": 85,
+    "featured": false,
+    "image": "./assets/img/Bakery1 (1).jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+  {
+    "id": 10,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Bakery",
+    "category": "Bakery",
+    "price": 85,
+    "featured": false,
+    "image": "./assets/img/Bakery3.jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+ 
+ 
+  {
+    "id": 12,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Clothes",
+    "category": "Clothes",
+    "price": 490,
+   "featured": true,
+    "image": "./assets/img/Clothes-3 (1).jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+  {
+    "id": 12,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Clothes",
+    "category": "Clothes",
+    "price": 490,
+   "featured": true,
+    "image": "./assets/img/Clothes-2 (1).jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id": 12,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Clothes",
+    "category": "Clothes",
+    "price": 490,
+   "featured": true,
+    "image": "./assets/img/Clothes333 (1).jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id": 12,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Clothes",
+    "category": "Clothes",
+    "price": 490,
+   "featured": true,
+    "image": "./assets/img/Clothes33333 (1).jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id": 12,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Clothes",
+    "category": "Clothes",
+    "price": 490,
+   "featured": true,
+    "image": "./assets/img/Clothes3333 (1).jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id": 14,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Beverages",
+    "category": "Beverages",
+    "price": 270,
+    "featured": true,
+    "image": "./assets/img/Beverages-5.jpg",
+    "description": "Refreshing green tea."
+  },
+
+  {
+    "id": 16,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Beverages",
+    "category": "Beverages",
+    "price": 150,
+    "featured": false,
+    "image": "./assets/img/Beverages-0 (1).jpg",
+    "description": "Crunchy and delicious cookies."
+  },
+  {
+    "id": 17,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Beverages",
+    "category": "Beverages",
+    "price": 90,
+    "featured": false,
+    "image": "./assets/img/Beverages00 (1).jpg",
+    "description": "Sparkling clean utensils."
+  },
+   
+  {
+    "id": 15,
+    "categoryIcons": "./assets/img/market-3.png",
+    "name": "Electronics",
+    "category": "Electronics",
+    "price": 270,
+    "featured": true,
+    "image": "./assets/img/laptop-2.jpg",
+    "description": "Refreshing green tea."
+  },
+  {
+    "id": 18,
+   "categoryIcons": "./assets/img/market-3.png",
+    "name": "Electronics",
+    "category": "Electronics",
+    "price": 45000,
+    "featured": true,
+    "image": "./assets/img/laptop-1.jpg",
+    "description": "High performance laptop"
+  },
+  {
+    "id": 22,
+   "categoryIcons": "./assets/img/market-3.png",
+    "name": "E-B",
+    "category": "Electronics",
+    "price": 1000,
+    "featured": true,
+    "image": "./assets/img/laptop-1.jpg",
+    "description": "High performance laptop"
+  },
+  {
+    "id": 19,
+    "categoryIcons": "./assets/img/market-3.png",
+    "name": "Electronics",
+    "category": "Electronics",
+    "price": 25000,
+    "featured": true,
+    "image": "./assets/img/Moble-2.jpg",
+    "description": "Smartphone with great camera"
+  },
+  {
+    "id": 20,
+    "categoryIcons": "./assets/img/market-3.png",
+    "name": "Electronics",
+    "category": "Electronics",
+    "price": 15000,
+    "featured": true,
+    "image": "./assets/img/Electronics-00000 (1).jpg"
+  },
+  {
+    "id": 21,
+    "categoryIcons": "./assets/img/market-3.png",
+    "name": "Electronics",
+    "category": "Electronics",
+    "price": 7000,
+    "featured": false,
+    "image": "./assets/img/Electronics-000 (1).jpg",
+    "description": "Comfortable office chair"
+  }
+]
