@@ -1,6 +1,6 @@
-// =======================
+
 // PRODUCTS & CART LOGIC
-// =======================
+
 let products = [];
 
 async function loadProducts() {
@@ -63,9 +63,9 @@ function toggleCompare(id) {
   store.saveCompare(list);
 }
 
-// =======================
+
 // MOUNT FUNCTIONS
-// =======================
+
 async function mountHome() {
   const data = await loadProducts();
 
@@ -172,9 +172,9 @@ async function mountCompare() {
   wrap.innerHTML = `<table class="table table-bordered"><thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table>`;
 }
 
-// =======================
+
 // SEARCH & COUNTS
-// =======================
+
 function handleSearch(e) {
   e.preventDefault();
   const q = document.getElementById('q').value.trim();
@@ -191,9 +191,9 @@ function updateCounts() {
   document.getElementById('wishlistCount')?.replaceChildren(document.createTextNode(wishCount));
 }
 
-// =======================
+
 // AUTH DEMO
-// =======================
+
 function registerUser(e) {
   e.preventDefault();
   const user = {
@@ -228,25 +228,25 @@ function logoutUser() {
   location.href = 'index.html';
 }
 
-// =======================
+
 // ELECTRONICS SECTION
-// =======================
+
 async function displayElectronics() {
   await loadProducts();
   const grid = document.getElementById("electronicsGrid");
   if (!grid) return;
   grid.innerHTML = "";
 
-  const electronics = products.filter(p => p.category === "Electronics");
+  const electronics = products.filter(p => p.category === "Burka");
   grid.innerHTML = electronics.map(productCard).join('');
 }
 
-// =======================
+
 // CLOTHES SECTION
-// =======================
+
 async function displayClothes() {
   await loadProducts();
-  const grid = document.getElementById("clothesGrid");
+  const grid = document.getElementById("Clothes");
   if (!grid) return;
   grid.innerHTML = "";
 
@@ -254,9 +254,9 @@ async function displayClothes() {
   grid.innerHTML = clothes.map(productCard).join('');
 }
 
-// =======================
+
 // DOMContentLoaded (ONE TIME ONLY)
-// =======================
+
 document.addEventListener('DOMContentLoaded', async () => {
   await mountHome(); 
   await mountProducts(); 
@@ -309,5 +309,15 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
   displayElectronics();
   displayClothes();
-  displayBeauty();  // 🔥 নতুন Beauty section load হবে
+  displayBeauty(); 
+});
+// Clear Wishlist
+const clearBtn = document.getElementById('clearWishlist');
+clearBtn.addEventListener('click', () => {
+  if (confirm("Are you sure you want to clear your wishlist?")) {
+    localStorage.removeItem('wishlist'); // বা যেই key এ save আছে
+    document.getElementById('wishlistGrid').innerHTML = ''; // Grid খালি করা
+    document.getElementById('wishlistCount').textContent = 0; // Badge update
+    alert("Wishlist cleared!");
+  }
 });

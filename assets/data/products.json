@@ -2,324 +2,374 @@
   {
     "id": 1,
     "categoryIcons": "./assets/img/bag-icon.png",
-    "name": "Grocery",
-    "category": "Islamic Electronics",
+    "name": "Hijabs",
+    "category": "Hijabs",
     "price": 200,
     "featured": true,
-    "image": "./GS/22.jpg",
+    "image": "./GS/21.jpg",
     "description": "Finest quality rice for daily meals."
   },
   
   {
-    "id": 13,
-    "categoryIcons": "./assets/img/market-4.png",
-    "name": "Drink",
-    "category": "Kids Islamic Products",
-    "price": 250,
-    "featured": true,
-    "image": "./GS/18.jpg",
-    "description": "Refreshing green tea."
-  },
-  {
-    "id": 5,
-    "categoryIcons": "./assets/img/market-5.png",
-    "name": "Beauty & Personal Care",
-    "category": "Beauty & Personal Care",
-    "price": 260,
-    "featured": true,
-    "image": "./assets/img/beauty-2 (1).jpg",
-    "description": "Powerful stain removal."
-  },
-    {
-    "id": 7,
-    "categoryIcons": "./assets/img/man.png",
-    "name": "Bakery",
-    "category": "Bakery",
-    "price": 85,
-    "discount": 28,
-    "featured": false,
-    "image": "./assets/img/Bakery2 (1).jpg",
-    "description": "Freshly baked whole wheat bread."
-  },
-   {
-    "id": 11,
-    "categoryIcons": "./assets/img/icon-ss.png",
-    "name": "Clothes",
-    "category": "Clothes",
-    "price": 490,
-   "featured": true,
-    "image": "./assets/img/Clothes-4 (1).jpg",
-    "description": "Soft and absorbent for comfort."
-  },
-   {
-    "id": 20,
-    "categoryIcons": "./assets/img/market-3.png",
-    "name": "Electronics",
-    "category": "Electronics",
-    "price": 15000,
-    "featured": true,
-    "image": "./assets/img/Electronics-00 (1).jpg"
-  },
-  {
     "id": 2,
-    "categoryIcons": "./assets/img/Market-4.png",
-    "name": "Grocery",
-    "category": "Grocery",
-    "price": 380,
-    "featured": false,
-    "image": "./assets/img/Grocery-3.jpg",
-    "description": "Aromatic long-grain rice."
+    "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
   },
   {
     "id": 3,
-    "categoryIcons": "./assets/img/market-3.png",
-    "name": "Grocery",
-    "category": "Grocery",
-    "price": 415,
+    "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
     "featured": true,
-    "image": "./assets/img/Grocery-4 (1).jpg",
-    "description": "Light and healthy cooking oil."
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
   },
     {
     "id": 4,
+   "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
+  },
+    {
+    "id": 5,
+      "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
+  },
+     {
+    "id": 6,
+      "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
+  },
+  {
+    "id": 7,
+     "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
+  },
+  {
+    "id": 8,
+     "categoryIcons": "./assets/img/bag-icon.png",
+    "name": "Hijabs",
+    "category": "Hijabs",
+    "price": 200,
+    "featured": true,
+    "image": "./GS/21.jpg",
+    "description": "Finest quality rice for daily meals."
+  },
+    {
+    "id": 9,
     "categoryIcons": "./assets/img/market-5.png",
-    "name": "Beauty & Personal Care",
-    "category": "Beauty & Personal Care",
+    "name": "Burka",
+    "category": "Burka",
     "price": 260,
     "featured": true,
-    "image": "./assets/img/beauty-1 (1).jpg",
+    "image": "./GS/borka.jpg",
     "description": "Powerful stain removal."
   },
   
   {
-    "id": 6,
-    "categoryIcons": "./assets/img/market-5.png",
-    "name": "Beauty & Personal Care",
-    "category": "Beauty & Personal Care",
-    "price": 320,
-    "featured": false,
-    "image": "./assets/img/beauty-4 (1).jpg",
-    "description": "Nourishing shampoo for shiny hair."
-  },
-
-    {
-    "id": 6,
-    "categoryIcons": "./assets/img/market-5.png",
-    "name": "Beauty & Personal Care",
-    "category": "Beauty & Personal Care",
-    "price": 320,
-    "featured": false,
-    "image": "./assets/img/Beauty & Personal Care-5555 (1).jpg",
-    "description": "Nourishing shampoo for shiny hair."
-  },
-
-    {
-    "id": 6,
-    "categoryIcons": "./assets/img/market-5.png",
-    "name": "Beauty & Personal Care",
-    "category": "Beauty & Personal Care",
-    "price": 320,
-    "featured": false,
-    "image": "./assets/img/Beauty & Personal Care-55 (1).jpg",
-    "description": "Nourishing shampoo for shiny hair."
-  },
-
-    {
-    "id": 6,
-    "categoryIcons": "./assets/img/market-5.png",
-    "name": "Beauty & Personal Care",
-    "category": "Beauty & Personal Care",
-    "price": 320,
-    "featured": false,
-    "image": "./assets/img/Beauty & Personal Care-555 (1).jpg",
-    "description": "Nourishing shampoo for shiny hair."
-  },
-
-  {
-    "id": 8,
-    "categoryIcons": "./assets/img/man.png",
-    "name": "Bakery",
-    "category": "Bakery",
-    "price": 85,
-    "featured": false,
-    "image": "./assets/img/Bakery2 (1).jpg",
-    "description": "Freshly baked whole wheat bread."
-  },
-  {
-    "id": 8,
-    "categoryIcons": "./assets/img/man.png",
-    "name": "Bakery",
-    "category": "Bakery",
-    "price": 85,
-    "featured": false,
-    "image": "./assets/img/Bakery (1).jpg",
-    "description": "Freshly baked whole wheat bread."
-  },
-  {
-    "id": 9,
-    "categoryIcons": "./assets/img/man.png",
-    "name": "Bakery",
-    "category": "Bakery",
-    "price": 85,
-    "featured": false,
-    "image": "./assets/img/Bakery1 (1).jpg",
-    "description": "Freshly baked whole wheat bread."
-  },
-  {
     "id": 10,
-    "categoryIcons": "./assets/img/man.png",
-    "name": "Bakery",
-    "category": "Bakery",
-    "price": 85,
-    "featured": false,
-    "image": "./assets/img/Bakery3.jpg",
-    "description": "Freshly baked whole wheat bread."
-  },
- 
- 
-  {
-    "id": 12,
-    "categoryIcons": "./assets/img/icon-ss.png",
-    "name": "Clothes",
-    "category": "Clothes",
-    "price": 490,
-   "featured": true,
-    "image": "./assets/img/Clothes-3 (1).jpg",
-    "description": "Soft and absorbent for comfort."
-  },
-  {
-    "id": 12,
-    "categoryIcons": "./assets/img/icon-ss.png",
-    "name": "Clothes",
-    "category": "Clothes",
-    "price": 490,
-   "featured": true,
-    "image": "./assets/img/Clothes-2 (1).jpg",
-    "description": "Soft and absorbent for comfort."
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Burka",
+    "category": "Burka",
+    "price": 260,
+    "featured": true,
+    "image": "./GS/borka.jpg",
+    "description": "Powerful stain removal."
   },
 
-  {
-    "id": 12,
-    "categoryIcons": "./assets/img/icon-ss.png",
-    "name": "Clothes",
-    "category": "Clothes",
-    "price": 490,
-   "featured": true,
-    "image": "./assets/img/Clothes333 (1).jpg",
-    "description": "Soft and absorbent for comfort."
+    {
+    "id": 11,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Burka",
+    "category": "Burka",
+    "price": 260,
+    "featured": true,
+    "image": "./GS/borka.jpg",
+    "description": "Powerful stain removal."
   },
 
-  {
+    {
     "id": 12,
-    "categoryIcons": "./assets/img/icon-ss.png",
-    "name": "Clothes",
-    "category": "Clothes",
-    "price": 490,
-   "featured": true,
-    "image": "./assets/img/Clothes33333 (1).jpg",
-    "description": "Soft and absorbent for comfort."
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Burka",
+    "category": "Burka",
+    "price": 260,
+    "featured": true,
+    "image": "./GS/borka.jpg",
+    "description": "Powerful stain removal."
   },
 
-  {
-    "id": 12,
-    "categoryIcons": "./assets/img/icon-ss.png",
-    "name": "Clothes",
-    "category": "Clothes",
-    "price": 490,
-   "featured": true,
-    "image": "./assets/img/Clothes3333 (1).jpg",
-    "description": "Soft and absorbent for comfort."
+    {
+    "id": 13,
+    "categoryIcons": "./assets/img/market-5.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 260,
+    "featured": true,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Powerful stain removal."
   },
 
   {
     "id": 14,
-    "categoryIcons": "./assets/img/market-4.png",
-    "name": "Beverages",
-    "category": "Beverages",
-    "price": 270,
-    "featured": true,
-    "image": "./assets/img/Beverages-5.jpg",
-    "description": "Refreshing green tea."
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
+    "featured": false,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
   },
-
+  {
+    "id": 15,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
+    "featured": false,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
   {
     "id": 16,
-    "categoryIcons": "./assets/img/market-4.png",
-    "name": "Beverages",
-    "category": "Beverages",
-    "price": 150,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
     "featured": false,
-    "image": "./assets/img/Beverages-0 (1).jpg",
-    "description": "Crunchy and delicious cookies."
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
   },
   {
     "id": 17,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
+    "featured": false,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+ 
+  {
+    "id": 18,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
+    "featured": false,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+  {
+    "id": 19,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
+    "featured": false,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+  {
+    "id": 26,
+    "categoryIcons": "./assets/img/man.png",
+    "name": "Boys Islamic Clothing",
+    "category": "Boys Islamic Clothing",
+    "price": 85,
+    "featured": false,
+    "image": "./GS/Boys Islamic Clothing.jpg",
+    "description": "Freshly baked whole wheat bread."
+  },
+
+  {
+    "id": 20,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Miswak",
+    "category": "Miswak",
+    "price": 490,
+   "featured": true,
+    "image": "./GS/Miswak.jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+  {
+    "id": 27,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Miswak",
+    "category": "Miswak",
+    "price": 490,
+   "featured": true,
+    "image": "./GS/Miswak.jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id": 21,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Miswak",
+    "category": "Miswak",
+    "price": 490,
+   "featured": true,
+    "image": "./GS/Miswak.jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id": 22,
+    "categoryIcons": "./assets/img/icon-ss.png",
+    "name": "Miswak",
+    "category": "Miswak",
+    "price": 490,
+   "featured": true,
+    "image": "./GS/Miswak.jpg",
+    "description": "Soft and absorbent for comfort."
+  },
+
+  {
+    "id":23,
     "categoryIcons": "./assets/img/market-4.png",
-    "name": "Beverages",
-    "category": "Beverages",
+    "name": "Hajj Clothing",
+    "category": "Hajj Clothing",
     "price": 90,
     "featured": false,
-    "image": "./assets/img/Beverages00 (1).jpg",
+    "image": "./GS/Hajj Clothing.jpg",
+    "description": "Sparkling clean utensils."
+  },
+
+  {
+    "id": 24,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Hajj Clothing",
+    "category": "Hajj Clothing",
+    "price": 150,
+    "featured": false,
+    "image": "./GS/Hajj Clothing.jpg",
+    "description": "Crunchy and delicious cookies."
+  },
+  {
+    "id": 25,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Hajj Clothing",
+    "category": "Hajj Clothing",
+    "price": 90,
+    "featured": false,
+    "image": "./GS/Hajj Clothing.jpg",
+    "description": "Sparkling clean utensils."
+  },
+  {
+    "id": 30,
+    "categoryIcons": "./assets/img/market-4.png",
+    "name": "Hajj Clothing",
+    "category": "Hajj Clothing",
+    "price": 90,
+    "featured": false,
+    "image": "./GS/Hajj Clothing.jpg",
     "description": "Sparkling clean utensils."
   },
    
   {
     "id": 15,
-    "categoryIcons": "./assets/img/market-3.png",
-    "name": "Electronics",
-    "category": "Electronics",
-    "price": 270,
+   "categoryIcons": "./assets/img/market-3.png",
+    "name": "Topi",
+    "category": "Topi",
+    "price": 45000,
     "featured": true,
-    "image": "./assets/img/laptop-2.jpg",
-    "description": "Refreshing green tea."
+    "image": "./GS/18.jpg",
+    "description": "High performance laptop"
   },
   {
     "id": 18,
    "categoryIcons": "./assets/img/market-3.png",
-    "name": "Electronics",
-    "category": "Electronics",
+    "name": "Topi",
+    "category": "Topi",
     "price": 45000,
     "featured": true,
-    "image": "./assets/img/laptop-1.jpg",
+    "image": "./GS/18.jpg",
+    "description": "High performance laptop"
+  },
+  {
+    "id": 28,
+   "categoryIcons": "./assets/img/market-3.png",
+    "name": "Topi",
+    "category": "Topi",
+    "price": 45000,
+    "featured": true,
+    "image": "./GS/18.jpg",
+    "description": "High performance laptop"
+  },
+  {
+    "id": 29,
+   "categoryIcons": "./assets/img/market-3.png",
+    "name": "Topi",
+    "category": "Topi",
+    "price": 45000,
+    "featured": true,
+    "image": "./GS/18.jpg",
     "description": "High performance laptop"
   },
   {
     "id": 22,
    "categoryIcons": "./assets/img/market-3.png",
-    "name": "E-B",
-    "category": "Electronics",
-    "price": 1000,
-    "featured": true,
-    "image": "./assets/img/laptop-1.jpg",
-    "description": "High performance laptop"
+    "name": "Tasbih",
+    "category": "Tasbih",
+    "price": 7000,
+    "featured": false,
+    "image": "./GS/11.jpg",
+    "description": "Comfortable office chair"
   },
   {
     "id": 19,
     "categoryIcons": "./assets/img/market-3.png",
-    "name": "Electronics",
-    "category": "Electronics",
-    "price": 25000,
-    "featured": true,
-    "image": "./assets/img/Moble-2.jpg",
-    "description": "Smartphone with great camera"
+    "name": "Tasbih",
+    "category": "Tasbih",
+    "price": 7000,
+    "featured": false,
+    "image": "./GS/11.jpg",
+    "description": "Comfortable office chair"
   },
   {
     "id": 20,
-    "categoryIcons": "./assets/img/market-3.png",
-    "name": "Electronics",
-    "category": "Electronics",
-    "price": 15000,
-    "featured": true,
-    "image": "./assets/img/Electronics-00000 (1).jpg"
+   "categoryIcons": "./assets/img/market-3.png",
+    "name": "Tasbih",
+    "category": "Tasbih",
+    "price": 7000,
+    "featured": false,
+    "image": "./GS/11.jpg",
+    "description": "Comfortable office chair"
   },
   {
     "id": 21,
     "categoryIcons": "./assets/img/market-3.png",
-    "name": "Electronics",
-    "category": "Electronics",
+    "name": "Tasbih",
+    "category": "Tasbih",
     "price": 7000,
     "featured": false,
-    "image": "./assets/img/Electronics-000 (1).jpg",
+    "image": "./GS/11.jpg",
     "description": "Comfortable office chair"
   }
 ]

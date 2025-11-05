@@ -51,9 +51,9 @@ async function mountHome(){
 const cats = [...new Set(data.map(p=>p.category))].slice(0,6);
 const catWrap = document.getElementById('topCategories');
 
-// প্রতিটি category এর জন্য প্রথম matching product খুঁজে icon নাও
+// প্রতিটি category এর জন্য প্রথম matching product খুঁজে icon 
 catWrap.innerHTML = cats.map(c => {
-  const product = data.find(p => p.category === c); // category অনুযায়ী প্রথম প্রোডাক্ট খুঁজবে
+  const product = data.find(p => p.category === c); 
   return `
     <div class="col-6 col-md-4 col-lg-2">
       <a href="products.html?category=${encodeURIComponent(c)}" class="text-decoration-none">
