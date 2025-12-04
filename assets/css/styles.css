@@ -179,3 +179,16 @@ footer a:hover{ text-decoration: underline; }
   background-color: #6c757d; /* gray instead of green if preferred */
   color: white;
 }
+
+.wishlistp {
+  text-align: center;
+  margin-top: 25px;
+  margin-left: 150px;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 10px 15px;
+  background: #c7ecfa;
+  border-radius: 8px;
+  display: inline-block;
+  color: #30b322;
+}

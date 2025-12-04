@@ -32,17 +32,22 @@ function addToCart(id, qty=1){
   store.saveCart(cart); updateCounts();
 }
 function toggleWishlist(id){
-  const list = store.wishlist();
+  const list = store.wishlist().map(Number);
   const i = list.indexOf(id);
   if(i>-1) list.splice(i,1); else list.push(id);
-  store.saveWishlist(list); updateCounts();
+  store.saveWishlist(list); 
+  updateCounts();
+  mountWishlist(); // Re-render wishlist
 }
+
 function toggleCompare(id){
-  const list = store.compare();
+  const list = store.compare().map(Number);
   const i = list.indexOf(id);
   if(i>-1) list.splice(i,1); else list.push(id);
   store.saveCompare(list);
+  mountCompare(); // Re-render compare
 }
+
 
 async function mountHome(){
   if(!document.getElementById('featuredGrid')) return;
@@ -128,26 +133,31 @@ async function mountProductDetail(){
 async function mountWishlist(){
   const grid = document.getElementById('wishlistGrid'); if(!grid) return;
   const data = await loadProducts();
-  const ids = store.wishlist();
-  const list = data.filter(p=>ids.includes(p.id));
+  
+  // Ensure IDs are numbers
+  const ids = store.wishlist().map(Number);
+
+  // Filter products that match IDs
+  const list = data.filter(p => ids.includes(p.id));
+  
   grid.innerHTML = list.map(productCard).join('') || '<div class="text-muted">No items in wishlist.</div>';
 }
+
 
 async function mountCompare(){
   const wrap = document.getElementById('compareWrap'); if(!wrap) return;
   const data = await loadProducts();
-  const ids = store.compare();
-  const list = data.filter(p=>ids.includes(p.id));
+
+  // Ensure IDs are numbers
+  const ids = store.compare().map(Number);
+
+  const list = data.filter(p => ids.includes(p.id));
   if(!list.length){ wrap.innerHTML = '<div class="text-muted">No items to compare.</div>'; return; }
+
   const headers = ['Name','Category','Price'];
   const rows = list.map(p=>`<tr><td>${p.name}</td><td>${p.category}</td><td>${formatPrice(p.price)}</td></tr>`).join('');
   wrap.innerHTML = `<table class="table table-bordered"><thead><tr>${headers.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table>`;
 }
-
-document.addEventListener('DOMContentLoaded', ()=>{
-  mountHome(); mountProducts(); mountProductDetail(); mountWishlist(); mountCompare();
-});
-
 
 // Electronics
 function displayElectronics() {
